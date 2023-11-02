@@ -1,0 +1,73 @@
+h1,h2,h3{
+  text-align:center;
+  text-decoration: underline;
+ 
+}
+.set1{
+  background-color:#5a0f0f;
+  padding: 30px;
+}
+.navbar a{
+  color:rgb(185, 173, 173);
+  text-decoration: none;
+}
+.navbar2 a{
+  text-align:center;
+  display: block;
+  background-color: black;
+  padding:20px;
+  text-decoration: none;
+}
+.navbar2{
+  text-align: center;
+}
+.navbar2 a:hover{
+  background-color: rgb(99, 56, 56);
+}
+body{
+background-image: url("bg.jpg");
+
+
+color:black;
+}
+p{
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  color:black;
+  padding-top: 10px;
+.intro{
+  font-size: xx-large;
+  font-weight: bolder;
+  color:black;
+}
+}
+ul{
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  color: black;
+}
+dt{
+  font-size: xx-large;
+  font-weight: bolder;
+  color: Black;
+}
+dd{
+  font-size: large;
+  font-family:'Times New Roman', Times, serif;
+  color: Black; 
+}
+form{
+  padding-left: 3%;
+}
+textarea{
+  background-color: rgb(206, 221, 187);
+  font-size: xx-large;
+  color: black;
+}
+blockquote{
+  text-align: center;
+  font-size: xx-large;
+  color: black;
+}
